@@ -1,0 +1,57 @@
+
+        h1{
+            color:orange;
+            font-size: 50px;
+        }
+    
+        h2{ 
+            color:lightseagreen;
+            font-size: 40px
+        }
+
+        h3{
+            color:darkgoldenrod;
+            font-size: 25px
+        }
+
+        h4{
+            color:crimson;
+            font-size: 18px
+        }
+
+       .Clinical_features_common{
+        background-color: azure;
+        border: 10px solid lightblue;
+        padding-top: 5px;
+        padding-left: 20px;
+        margin: 5px;
+        }
+ 
+        .Clinical_features_other{
+            background-color: azure;
+            border: 10px solid lightblue;
+            padding-top: 5px;
+            padding-left: 20px;
+            margin: 5px;
+        }
+
+        .Clinical_features_severe{
+            background-color: azure;
+            border: 10px solid lightblue;
+            padding-top: 5px;
+            padding-left: 20px;
+            margin: 5px;
+        }
+
+        .Complications{
+            background-color: azure;
+            border: 10px solid lightblue;
+            padding-top: 5px;
+            padding-left: 20px;
+            margin: 5px;
+        }
+
+
+       
+      
+
